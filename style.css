@@ -1,0 +1,137 @@
+
+ 
+body {
+    background-color: #161616;
+    background-size: contain ;
+    background-attachment: fixed;
+    background-repeat: repeat;
+    background-image: url(rjp.jpeg);
+    background-blend-mode: overlay;
+    font-size: 16px;
+    color: #ff1869;
+    font-family: Copperplate, Papyrus, fantasy;
+    
+}
+
+.hope h3{
+  padding: 35%;
+  margin: 15px;
+  background-image: url(hoep.png);
+  background-position: top center;
+  background-size: cover ;
+  background-repeat:no-repeat;
+}
+
+.IR h1 {
+  background-image: linear-gradient( to bottom right, #84002c, #000);
+  border-radius: 30px 0px 30px 0px;
+  background-color: #161616;
+  outline: inset 3px #b71048;
+  border: double 3px #ff1869;
+  text-align: center;
+  padding: 10px;
+  margin: 30px 110px;
+  font-size: 45px;
+  
+   }
+
+
+.desc h3 {
+  background-image: linear-gradient( to top, #b71048, black);
+  text-align: center;
+  color: #fff;
+  outline: outset 3px #b9005c;
+  border: ridge 6px #ff007f;
+  padding: 2px;
+}
+
+
+.desc h5 {
+  color:#ff1869;
+  text-align: center;
+  outline: outset 2px #efefef;
+  padding: 10px;
+  
+}
+
+.desc h6 {
+  font-size: 17px;
+  font-style: bold;
+  font-family: Cursive, 'Brush Handscript MT' ;
+  font-weight: bold;
+  border-radius: 15px;
+  text-align: center;
+  background: hsla(0, 100%, 100%, .8) ;
+  color: #222;
+  outline: double 3px #ff275f;
+  border: ridge 6px darkblue;
+  padding: 10px;
+  
+}
+
+.Op h2 , .Os h2, .cov h2, .sncl h2 {
+  background-image: linear-gradient(to bottom right, #5f0039, #00275f);
+  font-style: bold;
+  color: #fff;
+  background-color: #212121;
+  border-left: double 7px blue;
+  border-right: double 7px #008dca;
+  border-top: double 7px blue;
+  border-bottom: double 7px #008dca;
+  outline: groove 1px #fff;
+  border-radius: 0px 20px 0px 20px;
+  text-align: center;
+  padding: 1px;
+}
+
+.Jor {
+  background-image: url(jor.jpg);
+  background-repeat: no-repeat ;
+  background-attachment: local;
+  background-position: top right;
+  background-size: 50%;
+  
+}
+
+.cod {
+  background-image: url(c0d.png);
+  background-attachment: local;
+  background-position: top right;
+  background-size: 50%;
+  background-repeat: no-repeat;
+  background-origin: padding-box;
+ 
+}
+
+.Qb {
+  background-image: url(IRYS_Quarter-Bravery_jk-1.png);
+  background-attachment: local;
+  background-position: top right;
+  background-size: 45%;
+  background-repeat: no-repeat;
+  background-origin: padding-box;
+}
+
+.Jor, .cod, .Qb {
+  
+  color: #ff1869 ;
+  padding: 15px;
+  border-radius: 10px 0px;
+  
+  
+ }
+ 
+.sin , .cvr, .sc {
+  background-color: hsla(237, 48%, 50%, .2) ;
+  font-size: 17px;
+  border: ridge 5px #ff0378;
+}
+
+
+.Desc2 {
+  color: white;
+  text-align: left;
+  padding: 2px 2px;
+  font: 2%;
+  
+}
