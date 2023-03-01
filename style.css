@@ -113,7 +113,10 @@ body {
 }
 
 .Jor, .cod, .Qb {
-  
+  border-top: outset 5px #ff275f;
+  border-left: outset 5px #ff275f;
+  border-right: double 5px #ff275f;
+  border-bottom: double 5px #ff275f;
   color: #ff1869 ;
   padding: 15px;
   border-radius: 10px 0px;
