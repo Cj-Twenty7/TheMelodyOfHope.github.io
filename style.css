@@ -47,9 +47,9 @@ body {
 
 
 .desc h5 {
-  color:#ff1869;
+  color:#efefef;
   text-align: center;
-  outline: outset 2px #efefef;
+  outline: outset 2px #ff1869;
   padding: 10px;
   
 }
@@ -117,7 +117,7 @@ body {
   border-left: outset 5px #ff275f;
   border-right: double 5px #ff275f;
   border-bottom: double 5px #ff275f;
-  color: #ff1869 ;
+  color: #ffe2d2 ;
   padding: 15px;
   border-radius: 10px 0px;
   
@@ -129,6 +129,7 @@ body {
   font-size: 17px;
   border: ridge 5px #ff0378;
   padding: 8px;
+  color: #ffe2d2;
 }
 
 
