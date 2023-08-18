@@ -76,40 +76,73 @@ body {
   background-color: #212121;
   border-left: double 7px blue;
   border-right: double 7px #008dca;
-  border-top: double 7px blue;
-  border-bottom: double 7px #008dca;
+  border-top: double 5px blue;
+  border-bottom: double 5px #008dca;
   outline: groove 1px #fff;
   border-radius: 0px 20px 0px 20px;
   text-align: center;
   padding: 1px;
 }
 
-.Jor {
-  background-image: url(jor.jpg);
-  background-repeat: no-repeat ;
-  background-attachment: local;
-  background-position: top right;
-  background-size: 50%;
-  
+.cod h4{
+  padding-top: 47%;
+  padding-left: 50px;
+  padding-bottom: 0px;
+}
+
+.cod h5 {
+  padding-left: 30px;
 }
 
 .cod {
   background-image: url(c0d.png);
   background-attachment: local;
-  background-position: top right;
-  background-size: 50%;
+  background-position: top center;
+  background-size: 40%;
   background-repeat: no-repeat;
   background-origin: padding-box;
  
 }
 
+
+.Jor h4{
+  padding-top: 47%;
+  padding-left: 50px;
+  padding-bottom: 0px;
+}
+
+.Jor h5 {
+  padding-left: 30px;
+}
+  
+.Jor {
+  background-image: url(jor.jpg);
+  background-repeat: no-repeat ;
+  background-attachment: local;
+  background-position: top center;
+  background-size: 40%;
+  background-origin: padding-box;
+  
+}
+
+.Qb h4{
+  padding-top: 47%;
+  padding-left: 50px;
+  padding-bottom: 0px;
+}
+
+.Qb h5 {
+  padding-left: 30px;
+}
+
 .Qb {
   background-image: url(IRYS_Quarter-Bravery_jk-1.png);
   background-attachment: local;
-  background-position: top right;
-  background-size: 45%;
+  background-position: top center;
+  background-size: 40%;
   background-repeat: no-repeat;
   background-origin: padding-box;
+  
 }
 
 .Jor, .cod, .Qb {
@@ -117,7 +150,7 @@ body {
   border-left: outset 5px #ff275f;
   border-right: double 5px #ff275f;
   border-bottom: double 5px #ff275f;
-  color: #ffe2d2 ;
+  color: #ffe2ed ;
   padding: 15px;
   border-radius: 10px 0px;
   
@@ -125,11 +158,11 @@ body {
  }
  
 .sin , .cvr, .sc {
-  background-color: hsla(237, 48%, 50%, .2) ;
+  color: #ffe2ed;
+  background-color: hsla(237, 30%, 50%, .2) ;
   font-size: 17px;
-  border: ridge 5px #ff0378;
+  border: ridge 3px #ff0378;
   padding: 8px;
-  color: #ffe2d2;
 }
 
 
